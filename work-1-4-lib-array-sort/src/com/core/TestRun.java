@@ -12,7 +12,7 @@ public class TestRun {
 	 * @param args the args
 	 */
 	public static void main(String[] args) {
-		System.out.println("bitch.");
+		System.out.println("bitch!");
 		System.out.println();
 		
 		int[] mas = {5,7,22,8,13,3,1,12,1,0,17,44,23,19,8};
