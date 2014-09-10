@@ -10,7 +10,7 @@ import com.methods.SelectMethod;
  * @author Maksym Gavlovych (reverff@gmail.com)
  *
  */
-public class ArraySort {
+public class GetArraySort {
 	
 	/**
 	 * Sorting array with bubble method from minimum to maximum

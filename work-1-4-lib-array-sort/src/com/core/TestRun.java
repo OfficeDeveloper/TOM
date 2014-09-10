@@ -29,14 +29,14 @@ public class TestRun {
 
 		System.out.println();
 		System.out.println("quick:");
-		a = ArraySort.quickMethod(b);
+		a = GetArraySort.quickMethod(b);
 		for (int i = 0; i < a.length; i++) System.out.print("|"+b[i]+"|");
 		System.out.println();
 		for (int i = 0; i < a.length; i++) System.out.print("|"+a[i]+"|");
 		
 		System.out.println();
 		System.out.println("reverse-quick:");
-		a = ArraySort.quickMethodReverse(b);
+		a = GetArraySort.quickMethodReverse(b);
 		for (int i = 0; i < a.length; i++) System.out.print("|"+b[i]+"|");
 		System.out.println();
 		for (int i = 0; i < a.length; i++) System.out.print("|"+a[i]+"|");
