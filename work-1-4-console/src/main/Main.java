@@ -17,13 +17,15 @@ public class Main {
 		int[] array = new int[len];
 		
 		for (int i = 0; i<array.length; i++) {
-			System.out.println("\nSet the array element #" + i + ": ");
+			System.out.println("\nSet the array element #" + (i + 1) + ": ");
 			array[i] = scanner.nextInt();
 		}
 
 		System.out.println();
 		for (int i = 0; i<array.length; i++)
 			System.out.print("|" + array[i] + "|");
+		
+		
 		
 	}
 
