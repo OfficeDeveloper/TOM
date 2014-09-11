@@ -27,12 +27,6 @@
 
     <target name="jar" depends="compile">
         <mkdir dir="${jar.dir}"/>
-    	<copy todir="${dir.classes.src}">
-    	    <fileset dir="${src.dir}"/>
-    	</copy>
-		<copy todir="${dir.classes.doc}">
-    	    <fileset dir="${doc.dir}"/>
-    	</copy>
         <jar destfile="${jar.dir}/${jar.name}" basedir="${dir.classes}">
             <manifest>
             	<attribute name="Author" value="Maksym Gavlovych"/>

@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Scanner;
 
-import com.core.GetArraySort;
+import office.core.GetArraySort;
 
 public class Main {
 
