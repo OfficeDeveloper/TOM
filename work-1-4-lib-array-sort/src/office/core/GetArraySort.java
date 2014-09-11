@@ -7,7 +7,7 @@ import office.methods.QuickSortMethod;
 import office.methods.SelectMethod;
 
 /**
- * Class that defines more convenient methods calls
+ * Class that defines more convenient methods call
  * @author Maksym Gavlovych (reverff@gmail.com)
  *
  */
