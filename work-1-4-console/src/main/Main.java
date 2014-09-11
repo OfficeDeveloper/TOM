@@ -31,7 +31,7 @@ public class Main {
 		
 
 		
-		int [] sortedArray = GetArraySort.quickMethodReverse(array);
+		int [] sortedArray = GetArraySort.insertMethod(array);
 		
 //		Other methods:		
 //		GetArraySort.bubbleMethod(array); 

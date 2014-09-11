@@ -2,6 +2,7 @@ package office.core;
 
 import office.methods.ArrayCommonMethods;
 import office.methods.BubbleMethod;
+import office.methods.InsertMethod;
 import office.methods.QuickSortMethod;
 import office.methods.SelectMethod;
 
@@ -30,7 +31,7 @@ public class GetArraySort {
 	 */
 	public static int[] insertMethod(int[] array){
 		int[] sortedArray = array.clone();
-		insertMethod(sortedArray);
+		InsertMethod.doInsertMethod(sortedArray);
 		return sortedArray;
 	}
 	
@@ -76,7 +77,7 @@ public class GetArraySort {
 	 */
 	public static int[] insertMethodReverse(int[] array){
 		int[] sortedArray = array.clone();
-		insertMethod(sortedArray);
+		InsertMethod.doInsertMethod(sortedArray);
 		ArrayCommonMethods.reverse(sortedArray);
 		return sortedArray;
 	}
