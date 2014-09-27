@@ -1,0 +1,6 @@
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\ArraySortingDll\bin\Release\ArraySortingDll.dll
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\ArraySortingDll\bin\Release\ArraySortingDll.pdb
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\ArraySortingDll\obj\Release\ArraySortingDll.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\ArraySortingDll\obj\Release\ArraySortingDll.dll
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\ArraySortingDll\obj\Release\ArraySortingDll.pdb
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\ArraySortingDll\bin\Release\ArraySortingDll.XML

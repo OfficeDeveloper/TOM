@@ -1,0 +1,9 @@
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\work.2.4.console\bin\Release\work.2.4.console.exe.config
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\work.2.4.console\bin\Release\work.2.4.console.exe
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\work.2.4.console\bin\Release\work.2.4.console.pdb
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\work.2.4.console\bin\Release\ArraySortingDll.dll
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\work.2.4.console\bin\Release\ArraySortingDll.pdb
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\work.2.4.console\obj\Release\work.2.4.console.exe
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\work.2.4.console\obj\Release\work.2.4.console.pdb
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\work.2.4.console\bin\Release\ArraySortingDll.xml
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\work.2.4.console\obj\Release\work.2.4.console.csprojResolveAssemblyReference.cache

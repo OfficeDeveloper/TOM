@@ -1,0 +1,12 @@
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\work.2.4.csharp\bin\Release\work.2.4.csharp.exe.config
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\work.2.4.csharp\bin\Release\work.2.4.csharp.exe
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\work.2.4.csharp\bin\Release\work.2.4.csharp.pdb
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\work.2.4.csharp\bin\Release\ArraySortingDll.dll
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\work.2.4.csharp\bin\Release\ArraySortingDll.pdb
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\work.2.4.csharp\obj\Release\work._2._4.csharp.Form1.resources
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\work.2.4.csharp\obj\Release\work._2._4.csharp.Properties.Resources.resources
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\work.2.4.csharp\obj\Release\work.2.4.csharp.csproj.GenerateResource.Cache
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\work.2.4.csharp\obj\Release\work.2.4.csharp.exe
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\work.2.4.csharp\obj\Release\work.2.4.csharp.pdb
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\work.2.4.csharp\obj\Release\work.2.4.csharp.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\work.2.4.csharp\bin\Release\ArraySortingDll.xml

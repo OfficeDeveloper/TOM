@@ -1,0 +1,5 @@
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\ArraySortingDll\obj\Debug\ArraySortingDll.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\ArraySortingDll\bin\Debug\ArraySortingDll.dll
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\ArraySortingDll\bin\Debug\ArraySortingDll.pdb
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\ArraySortingDll\obj\Debug\ArraySortingDll.dll
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\ArraySorting\ArraySortingDll\obj\Debug\ArraySortingDll.pdb

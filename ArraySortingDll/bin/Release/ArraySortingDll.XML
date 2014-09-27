@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ArraySortingDll</name>
+    </assembly>
+    <members>
+        <member name="T:ArraySortingDll.Methods">
+            <summary>
+            Class implements methods for sorting arrays. 
+            </summary>
+        </member>
+        <member name="M:ArraySortingDll.Methods.swap(System.Int32[],System.Int32,System.Int32)">
+            <summary>
+            Changes elements with each other at selected indexes.
+            </summary>
+            <param name="array">The array.</param>
+            <param name="index1">The index1.</param>
+            <param name="index2">The index2.</param>
+        </member>
+        <member name="M:ArraySortingDll.Methods.reverse(System.Int32[],System.Int32)">
+            <summary>
+            Turn array upside down.
+            </summary>
+            <param name="array">The array.</param>
+            <param name="len">The array length.</param>
+        </member>
+        <member name="M:ArraySortingDll.Methods.doBubbleSort(System.Int32[],System.Int32)">
+            <summary>
+            Sorting array with bubble method. 
+            </summary>
+            <param name="array">The array.</param>
+            <param name="len">The array length.</param>
+        </member>
+        <member name="M:ArraySortingDll.Methods.doInsertMethod(System.Int32[],System.Int32)">
+            <summary>
+            Sorting array with insert method. 
+            </summary>
+            <param name="array">The array.</param>
+            <param name="len">The array length.</param>
+        </member>
+        <member name="M:ArraySortingDll.Methods.doQuickSort(System.Int32[],System.Int32)">
+            <summary>
+            Sorting array with quick method. 
+            </summary>
+            <param name="array">The array.</param>
+            <param name="len">The array length.</param>
+        </member>
+        <member name="M:ArraySortingDll.Methods.doSelectSort(System.Int32[],System.Int32)">
+            <summary>
+            Sorting array with select method. 
+            </summary>
+            <param name="array">The array.</param>
+            <param name="len">The array length.</param>
+        </member>
+        <member name="M:ArraySortingDll.Methods.quickSort(System.Int32[],System.Int32,System.Int32)">
+            <summary>
+            Implementation of quick sort method.
+            </summary>
+            <param name="array">The array.</param>
+            <param name="len">The array length.</param>
+        </member>
+    </members>
+</doc>
